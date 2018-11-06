@@ -11,7 +11,7 @@ public class test_2 {
 		x = 10;
 		System.out.println(" --x : " + ( --x));
 		
-		x = 10;
+		x =        10;
 		System.out.println(" x++ : " + ( x++ ));
 		 System.out.println(" x : " + x);
 
